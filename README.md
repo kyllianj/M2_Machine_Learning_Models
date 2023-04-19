@@ -1,4 +1,4 @@
-# Machine Learning models
+# Machine Learning Models
 
 
 This lesson aims to show you how machine learning algorithms work under the hood.
